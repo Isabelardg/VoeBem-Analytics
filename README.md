@@ -104,13 +104,13 @@ Alguns exemplos de perguntas trabalhadas:
 
 O Genie foi utilizado para analisar os dados de pontualidade e atrasos a partir de perguntas em linguagem natural.
 
-![Databricks Genie - análise de atrasos](./genie-analise-atrasos.png)
+<img width="839" height="565" alt="Captura de tela 2026-09-22 121212" src="https://github.com/user-attachments/assets/5986b7b2-b39b-494a-8faf-33c99274cd97" />
 
 A resposta apresenta tanto os resultados da análise quanto uma visualização dos dados, facilitando a interpretação das informações.
 
 Também configurei um espaço do Genie para realizar as consultas sobre a base:
 
-![Databricks Genie - VoeBem Analytics](./genie-voebem-analytics.png)
+<img width="1220" height="462" alt="Captura de tela 2026-09-22 121241" src="https://github.com/user-attachments/assets/db055c3b-406c-4af3-8f8a-d34e5de083f4" />
 
 A utilização do Genie permite consultar os dados sem precisar escrever manualmente uma consulta SQL para cada pergunta, utilizando a camada preparada no pipeline como base para as respostas.
 
