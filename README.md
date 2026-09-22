@@ -160,8 +160,3 @@ Este projeto me permitiu colocar em prática conceitos de Engenharia de Dados, p
 - preparação de dados para aplicações de IA
 - consultas em linguagem natural com Databricks Genie
 
-## 🎓 Sobre a imersão
-
-Projeto desenvolvido durante a **Imersão de Engenharia de Dados com IA da Alura**, em setembro de 2026.
-
-O material disponibilizado pela Alura foi utilizado como base de estudo e desenvolvimento do projeto.
